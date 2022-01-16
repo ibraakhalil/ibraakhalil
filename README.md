@@ -2,7 +2,7 @@
 
 #### Hey All!
 ### I'm IBRAHIM KHALIL
-#### Intermediate Level Fronend Developer
+#### Professional Front-End Developer
 
   
               
