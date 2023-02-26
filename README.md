@@ -2,17 +2,17 @@
 
 #### Hey All!
 ### I'm IBRAHIM KHALIL
-#### Professional Front-End Developer
+#### Professional Fullstack Web Developer
 
   
               
 <br>            
               
 - 🔭 working on ikabout.com site 
-- 🌱 currently learning Javascript 
+- 🌱 currently learning Next.js
 - 🤔 looking for help with Javascript 
-- 💬 Ask me about CSS, Javascript 
-- 📫 How to reach me: ibkhalil5425@gmail.com 
+- 💬 Ask me about ReactJS, ExpressJS, Javascript 
+- 📫 How to reach me: ibrathekhalil@gmail.com 
 
 <br>
     
@@ -28,6 +28,12 @@
     <li>CSS</li>
     <li>JAVASCRIPT</li>
     <li>REACT JS</li>
+    <li>Node.js</li>
+    <li>MongoDB</li>
+    <li>ExpressJS</li>
+    <li>Redux</li>
+    <li>API/JSON</li>
+    
   <br><br>
 </div>
 
