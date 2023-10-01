@@ -1,5 +1,3 @@
-![I am frontend Developer](https://pbs.twimg.com/profile_banners/1021369588762566656/1638276899/1500x500)
-
 #### Hey All!
 ### I'm IBRAHIM KHALIL
 #### Fullstack Web Developer
@@ -24,7 +22,8 @@
     <br>
   <h3>Skills : </h3>
   <ul>
-    <li>HTML</li>
+    <li>Next.js</li>
+    <li>HTML</li
     <li>CSS</li>
     <li>JAVASCRIPT</li>
     <li>REACT JS</li>
