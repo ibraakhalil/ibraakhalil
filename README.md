@@ -5,12 +5,7 @@
 <h1 align="center">HEY, I'M IBRAHIM KHALIL!</h1>
 
 <p align="center">
-  Passionate <strong>Full-Stack Web Developer</strong> proficient in <strong>React.js, Next.js, TypeScript, and modern web technologies</strong>. 
-  I specialize in building <strong>scalable, high-performance applications</strong> with a strong focus on <strong>clean architecture, UI/UX, and seamless user experiences</strong>.
-  <br><br>
-  With expertise in <strong>frontend (React, Tailwind CSS, Framer Motion)</strong> and <strong>backend (Express.js, GraphQL, SQL, MongoDB)</strong>, 
-  I thrive in bridging the gap between design and functionality. I also have hands-on experience with <strong>DevOps, CI/CD, Docker, Vercel, AWS/GCP, and cloud-native solutions</strong> 
-  to deploy and optimize applications efficiently. I am always exploring new technologies like <strong>GitHub Copilot, Cursor, and AI-assisted development</strong> to enhance workflow and productivity.
+  Next.js & React Full-Stack Developer with strong <b>TypeScript</b>, <b>UI/UX</b>, and <b>performance</b> focus. Experienced in modern frontend (<b>Tailwind</b>, <b>Framer Motion</b>) and backend (<b>Express</b>, <b>GraphQL</b>, <b>SQL</b>, <b>MongoDB</b>), plus <b>CI/CD pipelines</b>, <b>Docker</b>, <b>Vercel</b> & <b>AWS</b>. Exploring <b>AI-powered tools</b> to streamline development.
 </p>
 
 
